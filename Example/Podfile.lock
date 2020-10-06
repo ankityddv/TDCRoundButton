@@ -1,0 +1,16 @@
+PODS:
+  - TDCRoundButton (0.1.0)
+
+DEPENDENCIES:
+  - TDCRoundButton (from `../`)
+
+EXTERNAL SOURCES:
+  TDCRoundButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TDCRoundButton: 6b7502ef6bd06188bf0cd06c0db3075ec0a36ef5
+
+PODFILE CHECKSUM: 7fb67f6dbe3c458d51a652005cb97926a9cb1cd0
+
+COCOAPODS: 1.9.3

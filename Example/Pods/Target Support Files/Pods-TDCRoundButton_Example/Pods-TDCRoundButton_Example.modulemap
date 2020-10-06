@@ -1,0 +1,6 @@
+framework module Pods_TDCRoundButton_Example {
+  umbrella header "Pods-TDCRoundButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
