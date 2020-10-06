@@ -29,3 +29,7 @@ ankityddv, yadavankit840@gmail.com
 ## License
 
 TDCRoundButton is available under the MIT license. See the LICENSE file for more info.
+
+## Cocoapods link
+
+https://cocoapods.org/pods/TDCRoundButton
