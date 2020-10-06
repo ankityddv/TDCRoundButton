@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TDCRoundButton_Example' do
+  pod 'TDCRoundButton', :path => '../'
+
+  target 'TDCRoundButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
