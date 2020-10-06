@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TDCRoundButton'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'TDCRoundButton is UIButton which can be customized by setting corner radius in one line of code.'
 
 # This description is used to generate tags and improve search results.
@@ -28,9 +28,9 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/ankityddv/TDCRoundButton.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/ankityddv'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "12.0"
   s.source_files = 'Source/**/*.swift'
   
   # s.resource_bundles = {

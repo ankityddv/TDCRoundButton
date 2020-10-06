@@ -1,8 +1,8 @@
 {
   "name": "TDCRoundButton",
   "version": "0.1.0",
-  "summary": "A short description of TDCRoundButton.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "TDCRoundButton is UIButton which can be customized by setting corner radius in one line of code.",
+  "description": "'TDCRoundButton is UIButton which can be customized by setting corner radius in one line of code.'",
   "homepage": "https://github.com/ankityddv/TDCRoundButton",
   "license": {
     "type": "MIT",
@@ -15,8 +15,9 @@
     "git": "https://github.com/ankityddv/TDCRoundButton.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/ankityddv",
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "TDCRoundButton/Classes/**/*"
+  "source_files": "Source/**/*.swift"
 }
